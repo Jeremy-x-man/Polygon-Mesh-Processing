@@ -1,4 +1,4 @@
-<<Polygon Mesh Processing>> is a summary book of computer geometry.
+"Polygon Mesh Processing" is a summary book of computer geometry.
 
 Reading the book, taking notes, translating, sharing for friends.
 
